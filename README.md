@@ -1,16 +1,22 @@
 ## Hi there 👋
 
-<!--
-**poojaa161/poojaa161** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi 👋 I'm Pooja
 
-Here are some ideas to get you started:
+🎓 BSc Computer Science with AI  
+💻 Skills: Python, SQL, Data Analysis, Machine Learning (Basics)  
+📊 Interested in Data Analyst / AI-related fresher roles  
+📚 Currently building projects and improving problem-solving skills  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Tools & Tech
+- Python
+- SQL
+- Pandas, NumPy
+- Matplotlib, Seaborn
+- Git & GitHub
+
+### 📌 What I'm doing now
+- Building beginner-friendly Python & Data Analysis projects
+- Practicing SQL queries
+- Learning real-world datasets
+
+📫 Reach me at: **dgpoojaa@gmail.com**
